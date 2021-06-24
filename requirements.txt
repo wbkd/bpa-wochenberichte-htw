@@ -1,0 +1,8 @@
+glob3
+re
+json
+fitz
+itemgetter
+datetime
+camelot-py[cv]
+warnings
